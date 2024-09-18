@@ -1,5 +1,4 @@
-# Nextcloud Installation script for Version 30+ 
-#Script uses PHP 8.3 
+# Nextcloud Installation script with PHP8.3 Support
 
 To use Nextcloud Install Script run the commands below:
 
